@@ -1,13 +1,25 @@
 # steel_poodle
 
-A geojson generator for [Pelican Static Site Generator](http://blog.getpelican.com/). 
+A [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) generator for [Pelican Static Site Generator](http://blog.getpelican.com/). 
 
 
 ## Usage
 
-Add metadata for Latiitude and Longitue in articles and the will be added to geo.jso in root of output folder.
+Add metadata for Latitude and Longitude in articles and the will be added to geo.json in root of output folder.
 
+    Title: Testing steel poodle
+    Date: 2015-10-12 10:20
+    Tags: pelican, gis, geojson
+    Authors: Jason Rigden
+    Latitude: 47.6097
+    Longitude: -120.3331
+    
+    You have just been rocked by the awesome power of a steel poodle
 
+## Authors
+
+ - [Jason Rigden](http://jasonrigden.com)
+ 
 ## Support
 
 Please [open an issue](https://github.com/jrigden/steel_poodle/issues/new) for support.
@@ -20,3 +32,9 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 
 Oct. 13 2015
 Initial Release.
+
+
+
+
+
+
