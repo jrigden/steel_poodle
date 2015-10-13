@@ -5,7 +5,7 @@ A [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) generator for [Pelican Static
 
 ## Usage
 
-Add metadata for Latitude and Longitude in articles and the will be added to geo.json in root of output folder.
+Add metadata for Latitude and Longitude in articles and they will be added to geo.json in root of output folder.
 
     Title: Testing steel poodle
     Date: 2015-10-12 10:20
